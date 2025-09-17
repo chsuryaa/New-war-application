@@ -4,7 +4,5 @@
 </head>
 <body>
 <h2>hi everyone,welcome to Devops class</h2>
-<h2>hi everyone,welcome to jenkins class</h2>
-<h2>automation is working</h2>
 </body>
 </html>
